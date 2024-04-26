@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "avt",
   version: "1.0.0",
   permission: 0,
-  credits: "Nayan",
+  credits: "Limon",
   description: "Avt pic",
   prefix: true, 
   category: "user", 
