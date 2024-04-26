@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "v2ideo",
+  name: "video2",
 	version: "0.0.2",
 	permission: 0,
   prefix: 'awto',
