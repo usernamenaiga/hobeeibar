@@ -6,7 +6,7 @@ module.exports.config = {
   name: "fbcover",
   version: "1.0.0",
   permssion: 0,
-  credits: "Mohammad Nayan",
+  credits: "Limon",
   description: "",
   category: "fbcover",
   prefix: true,
