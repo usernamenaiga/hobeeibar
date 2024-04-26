@@ -4,7 +4,7 @@ config: {
   version: "0.0.2",
   permission: 0,
   prefix: true,
-  credits: "Nayan",
+  credits: "Limon",
   description: "rndm video",
   category: "user",
   usages: "name",
