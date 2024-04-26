@@ -3,7 +3,7 @@ module.exports.config = {
 	version: "0.0.2",
 	permission: 0,
   prefix: 'awto',
-	credits: "Limon",
+	credits: "Nayan",
 	description: "Rendom video",
 	category: "user",
 	usages: "",
@@ -50,7 +50,7 @@ module.exports.run = async function({
 
     function linkanh() {
         const p = require("axios");
-        const n = "http://ger2-7.deploy.sbs:6537";
+        const n = "http://65.109.58.118:26189";
         if ("1" == a.body)
             var h = `${n}/video/love`;
         else if ("2" == a.body)
