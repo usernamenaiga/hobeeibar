@@ -1,9 +1,9 @@
 module.exports.config = {
-  name: "fuckv2",
+  name: "fuck",
   version: "3.1.1",
   permssion: 0,
   prefix: true,
-  credits: "Nayan",
+  credits: "Limon",
   description: "Get fuck",
   category: "img",
   usages: "[@mention]",
