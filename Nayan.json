@@ -1,25 +1,28 @@
 {
   "author": "Nayan",
-  "version": "1.5.7",
   "autoRestart": true,
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "𝐋𝐢𝐦𝐮_𝐁𝐨𝐭",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100000436645880",
+    "100046011211102",
+    "100027117429959",
+    "100013194726405",
+    "61557945965315",
+    "61552538886536",
+    "100040845942555",""
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "100000436645880",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
-  "disabledcmds": [
-  ],
+  "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
   "notice": " dont cng auther name and owner uid. otherwise bot not working"
