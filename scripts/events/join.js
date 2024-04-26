@@ -74,6 +74,8 @@ https://www.facebook.com/shahriarahammedlimonx
 
 🔵WHATSAPP NUMBER: 𝐃𝐢𝐛𝐨 𝐧𝐚 👊
 
+🍬𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : t.me/shahriarahammedlimon
+
 🟢SUPPORT EMAIL: limonahammed2009@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
