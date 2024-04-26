@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "Limon",
+  name: "limon",
 	version: "1.0.0",
 	permission: 0,
   prefix: false,
