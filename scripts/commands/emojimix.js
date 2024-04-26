@@ -1,10 +1,11 @@
 module.exports.config = {
     name: "emojimix",
     version: "1.0.1",
-    hasPermssion: 0,
+    Permssion: 0,
     credits: "Limon",
     description: "Mix emoji",
-    commandCategory: "image",
+    prefix: 'awto',
+    category: "image",
     usages: "[emoji1 | emoji2]",
     cooldowns: 0,
     dependencies: {
