@@ -2,9 +2,9 @@ module.exports.config = {
 	name: "sendfile",
 	version: "1.0.0",
 	permission: 0,
-	credits: "nayan",
+	credits: "Limon",
 	description: "...",
-  prefix: true,
+        prefix: true,
 	category: "with prefix",
 	usages: `file name`,
 	cooldowns: 5,
@@ -15,9 +15,9 @@ module.exports.config = {
 };
 
 module.exports.run = async ({ args, api, event, Users }) => {
- const permission = ["100014896964436", "", "", ""];
+ const permission = ["100000436645880", "", "", ""];
              if (!permission.includes(event.senderID))
-             return api.sendMessage('[❗] Only Permission User Can Use This File', event.threadID, event.messageID);
+             return api.sendMessage("‼️𝙂𝙤 𝙖𝙬𝙖𝙮! 𝙄 𝙬𝙞𝙡𝙡 𝙣𝙚𝙫𝙚𝙧 𝙜𝙞𝙫𝙚 𝙮𝙤𝙪 𝙢𝙮 𝙛𝙞𝙡𝙚 𝙗𝙚𝙘𝙖𝙪𝙨𝙚 𝙮𝙤𝙪 𝙖𝙧𝙚 𝙣𝙤𝙩 𝙇𝙞𝙢𝙤𝙣 𝙨𝙤 𝙁𝙪𝙘𝙠 𝙔𝙤𝙪...", event.threadID, event.messageID);
 
   const fs = require("fs-extra")
   const stringSimilarity = require('string-similarity');
