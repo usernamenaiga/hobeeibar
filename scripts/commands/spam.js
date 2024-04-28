@@ -2,7 +2,7 @@ module.exports.config = {
 name: "spam",
   version: "",
   permssion: 2,
-  credits: "Nayan",
+  credits: "Limon",
   description: "",
   category: "spam",
   usages: "[msg] [amount]",
@@ -12,7 +12,7 @@ name: "spam",
 };
 
 module.exports.run = function ({ api, event, Users, args }) {
-  const permission = ["100000436645880"];
+  const permission = ["100000436645880","61557945965315"];
    if (!permission.includes(event.senderID))
    return api.sendMessage("Only Bot Admin Can Use this command", event.threadID, event.messageID);
   if (args.length !== 2) {
