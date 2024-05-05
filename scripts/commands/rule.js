@@ -4,7 +4,7 @@ module.exports.config = {
 	permssion: 0,
 	credits: "Limon",
 	description: "Customize the law for each group",
-  prefix: 'awto',
+        prefix: 'awto',
 	category: "Box Chat",
 	usages: "[add/remove/all] [content/ID]",
 	cooldowns: 5,
